@@ -1,3 +1,7 @@
 Hola mi Nombre es Jhordan P. Bustmante 
 y bueno, en estos momentos estoy escribiendo este texto como 
 pruba haber que es lo que esta sucediendo.
+
+Nuevamente estoy escribiendo este texto para ver las pruebas.
+
+Hoy es sabado y pues me doy el tiemnpo de seguir aprendiendo git.
