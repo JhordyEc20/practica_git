@@ -1,2 +1,2 @@
 # practica_git
-Aprebdiendo a utilizar git y githud
+Aprendiendo a utilizar git y githud
